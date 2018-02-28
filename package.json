@@ -1,0 +1,17 @@
+{
+  "name": "css-in-js-stringify",
+  "version": "1.0.0",
+  "description": "Transform CSSinJS Object to plain CSS string",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayc0/cssStringify.git"
+  },
+  "keywords": ["CSSinJS", "stringify", "inline", "css"],
+  "author": "ayc0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ayc0/cssStringify/issues"
+  },
+  "homepage": "https://github.com/Ayc0/cssStringify#readme"
+}
